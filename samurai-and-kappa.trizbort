@@ -1,0 +1,640 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trizbort version="1.5.9.3">
+	<info>
+		<title>The Samurai and the Kappa</title>
+		<author>Garry Francis</author>
+	</info>
+	<map>
+		<room id="1" name="Swamp" subtitle="" x="-220" y="-160" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Swamp</objects>
+		</room>
+		<room id="2" name="Outside Hut" subtitle="" x="-460" y="-120" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Clearing|Swamp|Hut</objects>
+		</room>
+		<room id="3" name="Swamp" subtitle="" x="-340" y="-120" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Swamp</objects>
+		</room>
+		<room id="7" name="Swamp" subtitle="" x="-160" y="-80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Swamp</objects>
+		</room>
+		<room id="9" name="Field" subtitle="" x="200" y="-80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Path|Forest|Dirt path|Village|Field|Root vegetable (daikon)|Young woman (Yono)</objects>
+		</room>
+		<room id="10" name="Swamp" subtitle="" x="-160" y="0" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Swamp</objects>
+		</room>
+		<room id="11" name="East River Bank" subtitle="" x="80" y="0" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Forest|Dirt path|River bank|River|Pool of water|Rock dam|Rapids|Sign|(Kappa)</objects>
+		</room>
+		<room id="12" name="Dirt Path" subtitle="" x="200" y="0" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Forest|Dirt path</objects>
+		</room>
+		<room id="13" name="West End of Village" subtitle="" x="320" y="0" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Forest|Dirt path|Village|Small huts</objects>
+		</room>
+		<room id="15" name="Dirt Path" subtitle="" x="200" y="80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Forest|Dirt path</objects>
+		</room>
+		<room id="16" name="Dirt Path" subtitle="" x="320" y="80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Forest|Dirt path</objects>
+		</room>
+		<room id="17" name="Dirt Path" subtitle="" x="440" y="80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Forest|Dirt path</objects>
+		</room>
+		<room id="18" name="Junction of Paths" subtitle="" x="560" y="80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Forest|Gravel path|Dirt path</objects>
+		</room>
+		<room id="19" name="Dirt Road" subtitle="" x="680" y="80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Dirt road|Forest|Gravel path</objects>
+		</room>
+		<room id="22" name="Torii" subtitle="" x="560" y="160" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Torii|Kasagi|Nuki</objects>
+		</room>
+		<room id="24" name="North Sando" subtitle="" x="560" y="240" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Torii|Kasagi|Nuki|Sando|Toro|Temizuya|Stone basin</objects>
+		</room>
+		<line id="27">
+			<dock index="0" id="2" port="e" />
+			<dock index="1" id="3" port="w" />
+		</line>
+		<line id="32">
+			<dock index="0" id="7" port="s" />
+			<dock index="1" id="10" port="n" />
+		</line>
+		<line id="36">
+			<dock index="0" id="9" port="s" />
+			<dock index="1" id="12" port="n" />
+		</line>
+		<line id="46">
+			<dock index="0" id="12" port="s" />
+			<dock index="1" id="15" port="n" />
+		</line>
+		<line id="52">
+			<dock index="0" id="17" port="e" />
+			<dock index="1" id="18" port="w" />
+		</line>
+		<line id="53">
+			<dock index="0" id="18" port="e" />
+			<dock index="1" id="19" port="w" />
+		</line>
+		<room id="92" name="The Samurai and the Kappa (Garry Francis)" subtitle="" x="-460" y="-280" w="1580" h="40" region="NoRegion" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="None" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<room id="58" name="Field" subtitle="" x="440" y="-240" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Forest|Village|Field|Takenoko|Elderly man (Hidemochi)</objects>
+		</room>
+		<room id="59" name="North End of Village" subtitle="" x="440" y="-160" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Forest|Village|Small huts</objects>
+		</room>
+		<room id="60" name="Field" subtitle="" x="320" y="-80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Forest|Village|Field|Stakes|Plants|Middle-aged man (Yoshimoro)</objects>
+		</room>
+		<room id="69" name="Swamp" subtitle="" x="-160" y="80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Swamp|Little girl</objects>
+		</room>
+		<room id="83" name="East End of Village" subtitle="" x="560" y="-160" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Forest|Village|Small huts</objects>
+		</room>
+		<room id="84" name="Field" subtitle="" x="680" y="-160" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Forest|Village|Field|Plants|Mulch|Middle-aged woman (Sumini)</objects>
+		</room>
+		<room id="85" name="Centre of Village" subtitle="" x="440" y="-80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Forest|Village|Small huts</objects>
+		</room>
+		<room id="86" name="Field" subtitle="" x="560" y="-80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Forest|Village|Field|Crops|Young man (Nagatane)</objects>
+		</room>
+		<room id="87" name="Dirt Road" subtitle="" x="680" y="-80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Dirt road|Ramshackle buildings|Hatagoya|Young man (Nagatane)</objects>
+		</room>
+		<room id="88" name="South End of Village" subtitle="" x="440" y="0" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Forest|Village|Large hut|Small huts</objects>
+		</room>
+		<room id="89" name="Elder's Hut" subtitle="" x="560" y="0" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Large hut|Old man (Yukimoto)</objects>
+		</room>
+		<room id="90" name="Dirt Road" subtitle="" x="680" y="0" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Dirt road|Ramshackle buildings</objects>
+		</room>
+		<line id="110">
+			<dock index="0" id="9" port="e" />
+			<dock index="1" id="60" port="w" />
+		</line>
+		<line id="115">
+			<dock index="0" id="11" port="e" />
+			<dock index="1" id="12" port="w" />
+		</line>
+		<line id="116">
+			<dock index="0" id="13" port="e" />
+			<dock index="1" id="88" port="w" />
+		</line>
+		<line id="121">
+			<dock index="0" id="15" port="e" />
+			<dock index="1" id="16" port="w" />
+		</line>
+		<line id="122">
+			<dock index="0" id="16" port="e" />
+			<dock index="1" id="17" port="w" />
+		</line>
+		<line id="137" style="dashed">
+			<dock index="0" id="10" port="sse" />
+			<dock index="1" id="69" port="nne" />
+		</line>
+		<line id="147">
+			<dock index="0" id="60" port="s" />
+			<dock index="1" id="13" port="n" />
+		</line>
+		<line id="152">
+			<dock index="0" id="83" port="e" />
+			<dock index="1" id="84" port="w" />
+		</line>
+		<line id="155">
+			<dock index="0" id="88" port="e" />
+			<dock index="1" id="89" port="w" />
+		</line>
+		<line id="157">
+			<dock index="0" id="58" port="s" />
+			<dock index="1" id="59" port="n" />
+		</line>
+		<line id="160">
+			<dock index="0" id="59" port="s" />
+			<dock index="1" id="85" port="n" />
+		</line>
+		<line id="161">
+			<dock index="0" id="83" port="s" />
+			<dock index="1" id="86" port="n" />
+		</line>
+		<line id="163">
+			<dock index="0" id="85" port="s" />
+			<dock index="1" id="88" port="n" />
+		</line>
+		<line id="165">
+			<dock index="0" id="87" port="s" />
+			<dock index="1" id="90" port="n" />
+		</line>
+		<line id="166">
+			<dock index="0" id="88" port="s" />
+			<dock index="1" id="17" port="n" />
+		</line>
+		<line id="168">
+			<dock index="0" id="90" port="s" />
+			<dock index="1" id="19" port="n" />
+		</line>
+		<line id="169">
+			<dock index="0" id="18" port="s" />
+			<dock index="1" id="22" port="n" />
+		</line>
+		<line id="173">
+			<dock index="0" id="22" port="s" />
+			<dock index="1" id="24" port="n" />
+		</line>
+		<room id="199" name="South Sando" subtitle="" x="560" y="320" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Sando|Toro|Sacred forest|Haiden|Pavilion|Noticeboard|Ema</objects>
+		</room>
+		<room id="203" name="Haiden" subtitle="" x="560" y="400" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Haiden|Shimenawa|Rafters|Bell|Donation box</objects>
+		</room>
+		<room id="205" name="North of Honden" subtitle="" x="560" y="480" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Honden|Lion-dog statues|Shishi|Komainu|Tamagaki|Path|(Priest)|(Shozoku)|(Onusa)</objects>
+		</room>
+		<room id="217" name="Courtyard" subtitle="" x="320" y="720" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="218" name="Courtyard" subtitle="" x="440" y="720" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="219" name="Courtyard" subtitle="" x="560" y="720" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="220" name="Courtyard" subtitle="" x="680" y="720" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="221" name="Courtyard" subtitle="" x="800" y="720" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="222" name="Courtyard" subtitle="" x="680" y="960" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="223" name="Courtyard" subtitle="" x="800" y="960" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<line id="254">
+			<dock index="0" id="24" port="s" />
+			<dock index="1" id="199" port="n" />
+		</line>
+		<line id="265">
+			<dock index="0" id="217" port="e" />
+			<dock index="1" id="218" port="w" />
+		</line>
+		<line id="266">
+			<dock index="0" id="218" port="e" />
+			<dock index="1" id="219" port="w" />
+		</line>
+		<line id="267">
+			<dock index="0" id="219" port="e" />
+			<dock index="1" id="220" port="w" />
+		</line>
+		<line id="268">
+			<dock index="0" id="220" port="e" />
+			<dock index="1" id="221" port="w" />
+		</line>
+		<line id="270">
+			<dock index="0" id="222" port="e" />
+			<dock index="1" id="223" port="w" />
+		</line>
+		<line id="273" style="dashed">
+			<dock index="0" id="199" port="s" />
+			<dock index="1" id="203" port="n" />
+		</line>
+		<line id="276">
+			<dock index="0" id="203" port="s" />
+			<dock index="1" id="205" port="n" />
+		</line>
+		<room id="292" name="Hatagoya" subtitle="" x="800" y="-160" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Hatagoya|Floor|Tatami matting|Ash pit|Kettle of hot water|Sliding paper screen|Innkeeper (Nakaari)|Apron|Pot belly|(Bottle of sake)|(Other drinks)|Maid (Mokuko)</objects>
+		</room>
+		<room id="293" name="North Hall" subtitle="" x="920" y="-160" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Hatagoya|Hall|Sliding paper screen|Guest room</objects>
+		</room>
+		<room id="294" name="Lobby" subtitle="" x="800" y="-80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" isDark="yes" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">(Bum)|(Kamishimo)|(Kataginu)|(Kimono)|(Hakama)|(Waraji)|(Pouch)|(Silver coins)|(Silver coin)|(Tachi)|(Katana)|Hatagoya|Lobby|Earthen floor|Opening|Straw ceiling|Wooden rafters|Mud nests|Birds|Step|Honjin</objects>
+		</room>
+		<room id="295" name="South Hall" subtitle="" x="920" y="-80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Hatagoya|Hall|Sliding paper screen|Guest room</objects>
+		</room>
+		<room id="297" name="Guest Room" subtitle="" x="1040" y="-80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Hatagoya|Floor|Tatami matting|Sliding paper screen|Paper screen|Guest room|Futon bedding|Table|Bowl of miso soup|(Empty soup bowl)|Plate of assorted vegetables|(Empty plate)|Large bowl of rice|(Empty rice bowl)|Cup of sake|(Empty cup)|Chopsticks</objects>
+		</room>
+		<room id="300" name="Bath House" subtitle="" x="920" y="-240" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Hatagoya|Bath house|Bath</objects>
+		</room>
+		<line id="310" style="dashed">
+			<dock index="0" id="292" port="e" />
+			<dock index="1" id="293" port="w" />
+		</line>
+		<line id="311" style="dashed">
+			<dock index="0" id="87" port="e" />
+			<dock index="1" id="294" port="w" />
+		</line>
+		<line id="328" style="dashed">
+			<dock index="0" id="300" port="s" />
+			<dock index="1" id="293" port="n" />
+		</line>
+		<line id="329" style="dashed">
+			<dock index="0" id="292" port="s" />
+			<dock index="1" id="294" port="n" />
+		</line>
+		<line id="330" style="dashed">
+			<dock index="0" id="293" port="s" />
+			<dock index="1" id="295" port="n" />
+		</line>
+		<room id="345" name="Courtyard" subtitle="" x="320" y="800" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="346" name="Courtyard" subtitle="" x="440" y="800" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="347" name="Courtyard" subtitle="" x="560" y="800" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="348" name="Courtyard" subtitle="" x="680" y="800" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="349" name="Courtyard" subtitle="" x="800" y="800" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="350" name="Courtyard" subtitle="" x="320" y="960" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="351" name="Courtyard" subtitle="" x="440" y="960" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="352" name="Courtyard" subtitle="" x="560" y="960" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="353" name="South of Honden" subtitle="" x="560" y="560" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Honden|Tamagaki|Path|Courtyard|Stone pillar|Carving|Bamboo fence|(Pile of tiles)|(Tile)</objects>
+		</room>
+		<room id="358" name="Courtyard" subtitle="" x="800" y="640" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="359" name="Courtyard" subtitle="" x="680" y="640" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="360" name="Courtyard" subtitle="" x="560" y="640" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="361" name="Courtyard" subtitle="" x="440" y="640" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="362" name="Courtyard" subtitle="" x="320" y="640" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="364" name="Courtyard" subtitle="" x="800" y="880" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="365" name="Courtyard" subtitle="" x="680" y="880" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="366" name="Courtyard" subtitle="" x="560" y="880" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="367" name="Courtyard" subtitle="" x="440" y="880" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<room id="368" name="Courtyard" subtitle="" x="320" y="880" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Sacred forest|Kami|Courtyard|Bamboo fence|Flagstone|Number</objects>
+		</room>
+		<line id="369">
+			<dock index="0" id="217" port="s" />
+			<dock index="1" id="345" port="n" />
+		</line>
+		<line id="370">
+			<dock index="0" id="218" port="s" />
+			<dock index="1" id="346" port="n" />
+		</line>
+		<line id="371">
+			<dock index="0" id="219" port="s" />
+			<dock index="1" id="347" port="n" />
+		</line>
+		<line id="372">
+			<dock index="0" id="220" port="s" />
+			<dock index="1" id="348" port="n" />
+		</line>
+		<line id="373">
+			<dock index="0" id="221" port="s" />
+			<dock index="1" id="349" port="n" />
+		</line>
+		<line id="381">
+			<dock index="0" id="345" port="s" />
+			<dock index="1" id="368" port="n" />
+		</line>
+		<line id="382">
+			<dock index="0" id="346" port="s" />
+			<dock index="1" id="367" port="n" />
+		</line>
+		<line id="383">
+			<dock index="0" id="347" port="s" />
+			<dock index="1" id="366" port="n" />
+		</line>
+		<line id="384">
+			<dock index="0" id="348" port="s" />
+			<dock index="1" id="365" port="n" />
+		</line>
+		<line id="385">
+			<dock index="0" id="349" port="s" />
+			<dock index="1" id="364" port="n" />
+		</line>
+		<line id="389">
+			<dock index="0" id="353" port="s" />
+			<dock index="1" id="360" port="n" />
+		</line>
+		<line id="393">
+			<dock index="0" id="345" port="e" />
+			<dock index="1" id="346" port="w" />
+		</line>
+		<line id="394">
+			<dock index="0" id="346" port="e" />
+			<dock index="1" id="347" port="w" />
+		</line>
+		<line id="395">
+			<dock index="0" id="347" port="e" />
+			<dock index="1" id="348" port="w" />
+		</line>
+		<line id="396">
+			<dock index="0" id="348" port="e" />
+			<dock index="1" id="349" port="w" />
+		</line>
+		<line id="398">
+			<dock index="0" id="350" port="e" />
+			<dock index="1" id="351" port="w" />
+		</line>
+		<line id="399">
+			<dock index="0" id="351" port="e" />
+			<dock index="1" id="352" port="w" />
+		</line>
+		<line id="404">
+			<dock index="0" id="368" port="e" />
+			<dock index="1" id="367" port="w" />
+		</line>
+		<line id="405">
+			<dock index="0" id="367" port="e" />
+			<dock index="1" id="366" port="w" />
+		</line>
+		<line id="406">
+			<dock index="0" id="366" port="e" />
+			<dock index="1" id="365" port="w" />
+		</line>
+		<line id="407">
+			<dock index="0" id="365" port="e" />
+			<dock index="1" id="364" port="w" />
+		</line>
+		<line id="410">
+			<dock index="0" id="362" port="e" />
+			<dock index="1" id="361" port="w" />
+		</line>
+		<line id="411">
+			<dock index="0" id="361" port="e" />
+			<dock index="1" id="360" port="w" />
+		</line>
+		<line id="412">
+			<dock index="0" id="360" port="e" />
+			<dock index="1" id="359" port="w" />
+		</line>
+		<line id="413">
+			<dock index="0" id="359" port="e" />
+			<dock index="1" id="358" port="w" />
+		</line>
+		<room id="231" name="Copyright © Garry Francis 2024" subtitle="" x="940" y="960" w="180" h="40" region="NoRegion" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="None" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<room id="232" name="Legend" subtitle="" x="-460" y="-40" w="80" h="40" region="NoRegion" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="0" cornerTopRight="0" cornerBottomLeft="0" cornerBottomRight="0" borderstyle="None" description="" roomFill="#FFFFFF" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<room id="240" name="Start Room" subtitle="" x="-460" y="0" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="0" cornerTopRight="0" cornerBottomLeft="0" cornerBottomRight="0" borderstyle="Solid" isDark="yes" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<room id="241" name="Normal Room" subtitle="" x="-460" y="60" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="0" cornerTopRight="0" cornerBottomLeft="0" cornerBottomRight="0" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<line id="5">
+			<dock index="0" id="1" port="e" />
+			<dock index="1" id="7" port="n" />
+		</line>
+		<line id="4">
+			<dock index="0" id="1" port="s" />
+			<dock index="1" id="3" port="e" />
+		</line>
+		<line id="6">
+			<dock index="0" id="3" port="s" />
+			<dock index="1" id="7" port="w" />
+		</line>
+		<line id="26" flow="oneWay">
+			<dock index="0" id="10" port="wnw" />
+			<dock index="1" id="10" port="wsw" />
+		</line>
+		<line id="14" flow="oneWay">
+			<dock index="0" id="1" port="n" />
+			<dock index="1" id="1" port="nnw" />
+		</line>
+		<line id="28" flow="oneWay">
+			<dock index="0" id="1" port="wnw" />
+			<dock index="1" id="1" port="wsw" />
+		</line>
+		<line id="29" flow="oneWay">
+			<dock index="0" id="3" port="n" />
+			<dock index="1" id="3" port="nnw" />
+		</line>
+		<line id="30" flow="oneWay">
+			<dock index="0" id="69" port="ene" />
+			<dock index="1" id="69" port="ese" />
+		</line>
+		<line id="31" flow="oneWay">
+			<dock index="0" id="69" port="wnw" />
+			<dock index="1" id="69" port="wsw" />
+		</line>
+		<line id="37" flow="oneWay">
+			<dock index="0" id="69" port="s" />
+			<dock index="1" id="69" port="ssw" />
+		</line>
+		<line id="38" style="dashed" flow="oneWay">
+			<dock index="0" id="10" port="s" />
+			<dock index="1" id="10" port="ssw" />
+		</line>
+		<line id="39" flow="oneWay">
+			<dock index="0" id="7" port="ene" />
+			<dock index="1" id="7" port="ese" />
+		</line>
+		<line id="8">
+			<dock index="0" id="59" port="e" />
+			<dock index="1" id="83" port="w" />
+		</line>
+		<line id="33">
+			<dock index="0" id="205" port="e" />
+			<dock index="1" id="353" port="e" />
+		</line>
+		<line id="35">
+			<dock index="0" id="205" port="w" />
+			<dock index="1" id="353" port="w" />
+		</line>
+		<line id="40">
+			<dock index="0" id="352" port="e" />
+			<dock index="1" id="222" port="w" />
+		</line>
+		<line id="41">
+			<dock index="0" id="368" port="s" />
+			<dock index="1" id="350" port="n" />
+		</line>
+		<line id="42">
+			<dock index="0" id="367" port="s" />
+			<dock index="1" id="351" port="n" />
+		</line>
+		<line id="43">
+			<dock index="0" id="366" port="s" />
+			<dock index="1" id="352" port="n" />
+		</line>
+		<line id="44">
+			<dock index="0" id="365" port="s" />
+			<dock index="1" id="222" port="n" />
+		</line>
+		<line id="45">
+			<dock index="0" id="364" port="s" />
+			<dock index="1" id="223" port="n" />
+		</line>
+		<line id="47">
+			<dock index="0" id="362" port="s" />
+			<dock index="1" id="217" port="n" />
+		</line>
+		<line id="48">
+			<dock index="0" id="361" port="s" />
+			<dock index="1" id="218" port="n" />
+		</line>
+		<line id="49">
+			<dock index="0" id="360" port="s" />
+			<dock index="1" id="219" port="n" />
+		</line>
+		<line id="51">
+			<dock index="0" id="359" port="s" />
+			<dock index="1" id="220" port="n" />
+		</line>
+		<line id="56">
+			<dock index="0" id="358" port="s" />
+			<dock index="1" id="221" port="n" />
+		</line>
+		<line id="61" style="dashed">
+			<dock index="0" id="295" port="e" />
+			<dock index="1" id="297" port="w" />
+		</line>
+		<room id="20" name="West River Bank" subtitle="" x="-40" y="0" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="yes" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">River bank|River|Pool of water</objects>
+		</room>
+		<line id="21" style="dashed">
+			<dock index="0" id="20" port="e" />
+			<dock index="1" id="11" port="w" />
+		</line>
+		<line id="23">
+			<dock index="0" id="10" port="e" />
+			<dock index="1" id="20" port="w" />
+		</line>
+		<room id="25" name="Hut" subtitle="" x="-460" y="-200" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="yes" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Hut|Kettle|Broth|Fireplace|Old woman (Fumeshi)|(Cucumber)</objects>
+		</room>
+		<line id="34">
+			<dock index="0" id="25" port="s" />
+			<dock index="1" id="2" port="n" />
+		</line>
+	</map>
+	<settings>
+		<colors>
+			<canvas>White</canvas>
+			<fill>#FFFF99</fill>
+			<border>Black</border>
+			<line>Black</line>
+			<selectedLine>Gold</selectedLine>
+			<hoverLine>DarkOrange</hoverLine>
+			<largeText>Black</largeText>
+			<smallText>Black</smallText>
+			<lineText>Black</lineText>
+			<grid>#F5F5F5</grid>
+		</colors>
+		<regions>
+			<Dark Name="Dark" TextColor="Black">Silver</Dark>
+			<Dead Name="Dead" TextColor="White">Red</Dead>
+			<NoRegion Name="NoRegion" TextColor="Black">White</NoRegion>
+			<Normal Name="Normal" TextColor="Black">#FFFF80</Normal>
+			<Underwater Name="Underwater" TextColor="Black">#80FFFF</Underwater>
+		</regions>
+		<fonts>
+			<room size="12">Arial</room>
+			<object size="12">Arial Narrow</object>
+			<line size="12">Arial Narrow</line>
+		</fonts>
+		<grid>
+			<snapTo>yes</snapTo>
+			<visible>yes</visible>
+			<showOrigin>yes</showOrigin>
+			<size>20</size>
+		</grid>
+		<lines>
+			<width>1</width>
+			<handDrawn>no</handDrawn>
+			<arrowSize>8</arrowSize>
+			<textOffset>4</textOffset>
+		</lines>
+		<rooms>
+			<darknessStripeSize>10</darknessStripeSize>
+			<objectListOffset>4</objectListOffset>
+			<connectionStalkLength>20</connectionStalkLength>
+			<preferredDistanceBetweenRooms>40</preferredDistanceBetweenRooms>
+			<defaultRoomName>Cave</defaultRoomName>
+		</rooms>
+		<ui>
+			<handleSize>8</handleSize>
+			<snapToElementSize>8</snapToElementSize>
+		</ui>
+		<keypadNavigation>
+			<creationModifier>control</creationModifier>
+			<unexploredModifier>alt</unexploredModifier>
+		</keypadNavigation>
+	</settings>
+</trizbort>

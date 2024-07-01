@@ -1,0 +1,313 @@
+The Samurai and the Kappa
+By Garry Francis
+For Z-code interpreters
+
+Solution by Garry Francis
+----------------------------------------
+This is a minimal solution. You'll need to EXAMINE lots of things for this solution to make sense. Some optional (but significant) commands are shown in parentheses. These can be omitted once you know what to do.
+
+The first part of the game is a tutorial where your objective is to have a bath, a meal and a sleep. Something happens during the night. When you get up in the morning and pay your bill, the innkeeper reveals what has happened. From this point on, much of the game is an information gathering exercise so that you can learn how to deal with the kappa. You will need to solve puzzles in order to gather the information you need. TALK TO all the characters you meet and ASK <character> ABOUT anything they mention that seems relevant. Take notes as you go, as any important information you find will be needed later in the game.
+
+The solution assumes that you play the game with the tutorial turned on and follow the advice in the tutorial. It is strongly advised that you leave the tutorial turned on, as it will provide some valuable hints later in the game. If you get stuck, use HINT, but only as a last resort.
+
+(L)
+(X ME) (you're a samurai named Haruko Tadamori)
+(I) (you're wearing waraji, pouch & kamishimo, & carrying katana & tachi)
+(X KAMISHIMO) (it's your clothing consisting of kataginu, kimono and hakama)
+(X KATAGINU) (it's the outer coat)
+(X KIMONO) (it's the shirt)
+(X HAKAMA) (it's the trousers)
+(X WARAJI) (they're sandals)
+(X KATANA) (it's the shorter of your two swords)
+(X TACHI) (it's the longer of your two swords)
+(W) (you've only just arrived, you need a bath, a meal and a good night's sleep)
+(N) (you can't enter wearing your waraji)
+REMOVE WARAJI
+(N) (you need to leave your waraji outside)
+DROP THEM
+N
+(E) (talk to innkeeper first)
+TALK TO INNKEEPER (his name is Nakaari, it's 1 silver coin for bath, meal & bed)
+(ASK HIM ABOUT ROOM, ACCOUNT, AGE, POST-TOWN, HONJIN, HATAGOYA, FATHER, MOTHER)
+(ASK HIM ABOUT HIMSELF, TEA, MAID, ME, SERVICE, TOWN, WORK)
+(E) (talk to maid first)
+TALK TO MAID (her name is Mokuko, she gestures towards bath house to east)
+(ASK HER ABOUT INNKEEPER, HERSELF, JOB, PARENTS, AGE, ACCOUNT, BATH, ROOM, ME)
+(ASK HER ABOUT TOWN, POST-TOWN, HONJIN, HATAGOYA, SERVICE)
+E (Mokuko follows you)
+(S) (you need to have a bath first)
+N (Mokuko follows you)
+REMOVE ALL
+DROP ALL (you drop the money pouch, kamishimo, tachi and katana)
+GET IN BATH (Mokuko washes you)
+GET OUT OF BATH (Mokuko pats you dry, then leaves you to get dressed)
+GET ALL
+WEAR KAMISHIMO
+WEAR POUCH
+S
+(E) (that's not your room)
+S
+(OPEN SCREEN)
+E (Mokuko is here and has set out your meal)
+(TALK TO MOKUKO) ("Aren't you hungry?")
+(ASK MOKUKO ABOUT SOUP, VEGETABLES, RICE, SAKE)
+DRINK SOUP
+EAT VEGETABLES
+EAT RICE
+DRINK SAKE (Mokuko takes table and empty dishes outside and returns)
+(TALK TO MOKUKO) (she asks if you need any further 'service')
+(SLEEP) (Mokuko is waiting for you to ask her about something)
+ASK MOKUKO ABOUT SERVICE (you politely refuse her offer and she leaves)
+SLEEP (you're disturbed by noises and a horrible stench, and awake in morning)
+(OPEN SCREEN)
+W
+N
+(OPEN SCREEN)
+W
+(S) (you can't leave until you've paid your bill)
+(TALK TO NAKAARI) (bill is one silver coin)
+(X POUCH) (it's closed)
+OPEN POUCH (it contains 10 silver coins)
+GET COIN
+GIVE IT TO NAKAARI (he tells you about peasant and kappa stealing child)
+ASK NAKAARI ABOUT KAPPA (need to know 3 things, elder and priest know more)
+(ASK HIM ABOUT ELDER, VILLAGE, PRIEST, SHINTO, SHRINE, KAMI, PEASANT)
+S
+GET WARAJI
+WEAR THEM
+W (young man pleads with you to find missing child and kill kappa)
+TALK TO MAN (his name is Nagatane, village is to south)
+(ASK HIM ABOUT KAPPA) (he describes it in detail)
+(ASK HIM ABOUT CHILD, MOTHER, ELDER, VILLAGE, HIMSELF, ME, PRIEST, SHRINE)
+S (Nagatane follows you)
+S (Nagatane follows you)
+W (Nagatane follows you, then leaves you to attend his field)
+W
+N
+E (there's an old man here)
+TALK TO MAN (his name is Yukimoto, ask villagers about crops, drinks & huts)
+ASK HIM ABOUT KAPPA (lure it by exposing your butt, priest can tell you more)
+ASK HIM ABOUT PRIEST (must follow ritual to summon him)
+ASK HIM ABOUT RITUAL (wash, make donation, ring bell, bow, bow, clap, clap, bow)
+(ASK HIM ABOUT FARTS, SHINTO, SHRINE, KAMI, CHILD, MOTHER, CROPS, DRINKS, HUTS)
+(ASK HIM ABOUT HIMSELF, ME)
+W
+S
+E
+S
+S
+WASH ME (you are now cleansed of evil spirits & can enter haiden)
+S
+(X PAVILION) (it protects a noticeboard covered in ema)
+(X EMA) (they're small wooden plaques with prayers and wishes written on them)
+(READ EMA) (a disturbing number of them plea to kami for protection from kappa)
+S
+GET COIN
+PUT IT IN BOX (as per ritual)
+RING BELL (as per ritual)
+S
+BOW (as per ritual)
+BOW (as per ritual)
+CLAP (as per ritual)
+CLAP (as per ritual)
+BOW (as per ritual, the priest appears)
+TALK TO PRIEST (he asks what you want)
+ASK HIM ABOUT KAPPA (you must pass a test to prove you're worthy, go to pillar)
+E (priest follows you)
+X PILLAR (it has a carving)
+X CARVING (it has a 5x5 pattern)
+ASK PRIEST ABOUT TEST (it's a puzzle, he explains the rules and gives you tiles)
+(X TILES) (there's 11 of them)
+S
+DROP TILE
+E
+DROP TILE
+S
+DROP TILE
+S
+DROP TILE
+E
+S
+DROP TILE
+W
+DROP TILE
+W
+DROP TILE
+W
+DROP TILE
+W
+DROP TILE
+N
+E
+DROP TILE
+N
+DROP TILE
+N
+E
+N (priest checks tiles, you have done well, you can now ask him about kappa)
+ASK PRIEST ABOUT KAPPA (he tells you its two weaknesses)
+(ASK HIM ABOUT CUCUMBER) (he doesn't know where to find any, farmers may know)
+E
+N
+N
+N
+N
+N
+W
+W
+W
+N
+W
+(X SIGN) (perhaps you should read it)
+(READ IT) (DANGER: BEWARE OF KAPPA _ NO SWIMMING)
+(W) (remember what it said on sign)
+EXPOSE BUM (remembering elder's advice, kappa is coaxed out of river)
+(X KAPPA) (bowl-like depression on its head is full of life-giving water)
+(TALK TO KAPPA) (is there anything you'd like to ask it before it eats you?)
+(ASK KAPPA ABOUT CHILD) (it sounds like child is still alive)
+BOW TO KAPPA (remembering priest's advice, kappa spills water and is paralysed)
+(TALK TO KAPPA) (you tricked it, so it's not talking to you)
+KILL KAPPA (he pleads for mercy, spare him and he'll tell you where child is)
+ASK KAPPA ABOUT CHILD (give it a cucumber and it'll tell you where child is)
+(ASK HIM ABOUT CUCUMBER) (it doesn't know where they are)
+E
+N (young woman is here)
+TALK TO WOMAN (her name is Yono)
+ASK HER ABOUT KAPPA (it stole her child)
+ASK HER ABOUT CROPS
+ASK HER ABOUT DRINKS
+ASK HER ABOUT HUTS
+(ASK HER ABOUT CUCUMBER) (see Hidemochi)
+E (middle-aged man is here)
+TALK TO MAN (his name is Yoshimoro)
+ASK HIM ABOUT CROPS
+ASK HIM ABOUT DRINKS
+ASK HIM ABOUT HUTS
+(ASK HIM ABOUT CUCUMBER) (see Hidemochi)
+S
+E
+N
+N
+E
+E (middle-aged woman is here)
+TALK TO WOMAN (her name is Sumini)
+ASK HER ABOUT CROPS
+ASK HER ABOUT DRINKS
+ASK HER ABOUT HUTS
+(ASK HER ABOUT CUCUMBER) (see Hidemochi)
+W
+S (Nagatane is here, he's the one you met in town)
+(TALK TO NAGATANE) (have you found kappa or child?)
+ASK HIM ABOUT CROPS
+ASK HIM ABOUT DRINKS
+ASK HIM ABOUT HUTS (you can now work out everyone's crop, favourite drink & hut)
+(ASK HIM ABOUT CUCUMBER) (see Hidemochi)
+N
+W
+N (elderly man is here)
+TALK TO MAN (his name is Hidemochi, he's the one who knows about cucumbers)
+(ASK HIM ABOUT CROPS) (he's not very cooperative)
+(ASK HIM ABOUT DRINKS) (he's not very cooperative)
+(ASK HIM ABOUT HUTS) (he's not very cooperative)
+(ASK HIM ABOUT KAPPA) (a kappa stole his child when he was a young man)
+ASK HIM ABOUT CUCUMBER (give him his favourite drink and he'll reveal all)
+(You should now be able to solve logic puzzle and determine his favourite drink)
+S
+S
+S
+S
+E
+E
+N
+N
+E
+REMOVE WARAJI
+DROP THEM
+N
+(ASK NAKAARI ABOUT SAKE) (he has best sake in Japan, but it costs a silver coin)
+(ASK HIM ABOUT HIDEMOCHI) (he drinks too much)
+GET COIN
+BUY SAKE
+S
+GET WARAJI
+WEAR THEM
+W
+S
+S
+W
+W
+N
+N
+N
+N
+GIVE BOTTLE TO HIDEMOCHI (he puts it under his kimono for later)
+ASK HIDEMOCHI ABOUT CUCUMBER (woman on far side of swamp grows cucumbers)
+S
+S
+S
+S
+W
+W
+N
+W
+W (you cross river)
+W (oh, no, you're in a maze, use SMELL or LISTEN to find your way around)
+N
+W
+W
+N (old woman is here)
+TALK TO WOMAN (her name is Fumeshi, what can she do for you?)
+(ASK HER ABOUT KAPPA)
+ASK HER ABOUT CUCUMBER (she'll sell you one for a silver coin)
+GET COIN
+BUY CUCUMBER (or GIVE COIN TO FUMESHI, she gives you a cucumber)
+(ASK FUMESHI ABOUT SWAMP) (she tells you the way back)
+S
+E
+S
+S
+E
+E
+GIVE CUCUMBER TO KAPPA (kappa eats it, reveals location of child and leaves)
+W
+W
+S (there's a girl here, you couldn't go this way before)
+(X GIRL) (she's sleeping)
+GET GIRL (she wakes up and asks for her mummy)
+N
+E
+E
+E
+N
+GIVE CHILD TO YONO (Yono thanks you, village holds a celebration in your honour)
+***THE END***
+
+
+SOLUTION TO COURTYARD PUZZLE
+
+Before placing tiles
+--------------------
+.4..3
+..2..
+.....
+.....
+....5
+
+After placing tiles
+-------------------
+.4##3
+.#2#.
+.#.#.
+#####
+....5
+
+
+SOLUTION TO FARMERS LOGIC PUZZLE
+
+Villager  | Crop       | Drink   | Hut
+-------------------------------------------
+Yono      | Daikon     | Matcha  | West
+Sumini    | Edamame    | Tonyu   | East
+Yoshimoro | Nasu       | Amazake | South
+Nagatane  | Satsumaimo | Mugicha | Centre
+Hidemochi | Takenoko   | Sake    | North
